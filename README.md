@@ -1,1 +1,1 @@
-# just-teach-news
+# just-tech-news
